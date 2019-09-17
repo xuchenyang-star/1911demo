@@ -13,7 +13,6 @@ function App() {
         </p>
         <a
           className="App-link"
-          
           target="_blank"
           rel="noopener noreferrer"
         >
